@@ -21,7 +21,7 @@ Defining Open and Understanding Licensing Options
 Searching for OER and Exploring OER Repositories
 Course Conclusion
 
-##**Import Instructions**
+## **Import Instructions**
 
 The files for this course are provided in an uncompressed format. In order to import this course into your Moodle site please follow the instructions provided below:
 
