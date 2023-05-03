@@ -27,9 +27,7 @@ The files for this course are provided in an uncompressed format. In order to im
 Clone this repository to your local machine.
 
 Copy all the files from your local repository into a compressed zip archive.
-
 Log into your Moodle site.
-
 Under Administration -> Course Administration - click on Restore
 Click on the Choose a file button, select the zip file you create in step 2 and click the Restore button
 Confirm - This page displays an overview of the backup - click Continue
