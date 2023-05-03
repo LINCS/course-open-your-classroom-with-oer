@@ -1,5 +1,5 @@
 # course-open-your-classroom-with-oer
-**Course: Open Your Classroom with OER**
+##**Course: Open Your Classroom with OER**
 Welcome to Open Your Classroom with OER!
 
 This course introduces the wide variety of Open Educational Resources (OER), Creative Commons, and other open licenses. Instructors at all levels of AE will gain an understanding of how to identify and search for materials to use in their teaching practice. In addition to learning search strategies, instructors will gain an understanding of how to evaluate OER for appropriate use.
@@ -8,7 +8,7 @@ Commitment: This self-paced course will take approximately 2 hours to complete.
 
 Audience: Adult education instructors, trainers, and coordinators.
 
-**Objectives:** 
+##**Objectives:** 
 By the end of the course, participants will be able to:
 
 Understand and define Open Educational Resources (OER) and have a foundational understanding of how they can enrich their teaching;
@@ -21,7 +21,7 @@ Defining Open and Understanding Licensing Options
 Searching for OER and Exploring OER Repositories
 Course Conclusion
 
-**Import Instructions**
+##**Import Instructions**
 The files for this course are provided in an uncompressed format. In order to import this course into your Moodle site please follow the instructions provided below:
 
 Clone this repository to your local machine.
