@@ -27,12 +27,21 @@ The files for this course are provided in an uncompressed format. In order to im
 Clone this repository to your local machine.
 
 Copy all the files from your local repository into a compressed zip archive.
+
 Log into your Moodle site.
+
 Under Administration -> Course Administration - click on Restore
+
 Click on the Choose a file button, select the zip file you create in step 2 and click the Restore button
+
 Confirm - This page displays an overview of the backup - click Continue
+
 Destination - Under Restore as a new course select a category and click Continue (be sure you're clicking the continue button inside the Restore as a new course section)
+
 Settings - click Next
+
 Schema - On this page you can modify the Course name, Course short name and Course start date for your new course. Make any necessary modifications and click Next
+
 Review - Final summary of all the settings for your new course - click Perform Restore
+
 Double-check start dates, self-enrollment vs. manual-enrollment options, and visibility settings.
