@@ -8,7 +8,7 @@ Commitment: This self-paced course will take approximately 2 hours to complete.
 
 Audience: Adult education instructors, trainers, and coordinators.
 
-**Objectives:** 
+## **Objectives:** 
 By the end of the course, participants will be able to:
 
 Understand and define Open Educational Resources (OER) and have a foundational understanding of how they can enrich their teaching;
@@ -21,7 +21,8 @@ Defining Open and Understanding Licensing Options
 Searching for OER and Exploring OER Repositories
 Course Conclusion
 
-**Import Instructions**
+##**Import Instructions**
+
 The files for this course are provided in an uncompressed format. In order to import this course into your Moodle site please follow the instructions provided below:
 
 Clone this repository to your local machine.
