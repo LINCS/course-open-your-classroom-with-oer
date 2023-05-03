@@ -1,5 +1,5 @@
 # course-open-your-classroom-with-oer
-##**Course: Open Your Classroom with OER**
+## **Course: Open Your Classroom with OER**
 Welcome to Open Your Classroom with OER!
 
 This course introduces the wide variety of Open Educational Resources (OER), Creative Commons, and other open licenses. Instructors at all levels of AE will gain an understanding of how to identify and search for materials to use in their teaching practice. In addition to learning search strategies, instructors will gain an understanding of how to evaluate OER for appropriate use.
